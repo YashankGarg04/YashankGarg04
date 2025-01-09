@@ -20,5 +20,3 @@ Talk to me about:
 
 ![Yashank's github stats](https://github-readme-stats.vercel.app/api?username=YashankGarg04&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YashankGarg04.YashankGarg04)
-
