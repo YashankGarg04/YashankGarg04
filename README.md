@@ -12,11 +12,11 @@ Talk to me about:
 - Backend development using **RUST**.
 - Making for **Smart Contract Deployement**.
 - Robust full-stack decentralized Application implementation.
-- Creating Data training Models with concepts of machine learning using **Python**(still learning)
+- Creating Data training Models with concepts of machine learning using **Python**
 - Solving Data structure and algorithm questions in **Java**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- ⚡ Fun fact: Internet users blink less than usual.
+- ⚡ Fun fact: Internet users blink less than usual
 
 <!-- ![Yashank's github stats](https://github-readme-stats.vercel.app/api?username=YashankGarg04&hide=["issues"]&show_icons=true) -->
 
